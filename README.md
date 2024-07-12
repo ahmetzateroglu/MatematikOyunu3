@@ -1,0 +1,2 @@
+# MatematikOyunu3
+ Unity UI elementleriyle geliştirilmiş dört işlem soru cevap uygulaması. Bu uygulamada öncelikle sistem tarafından yapılan test ile her bir işlem için seviye tespiti yapılıyor. Ardından belirlenen zorluğa göre sorular ve şıkları sistem tarafından otomatik olarak oluşturuluyor. Testlerde yapılan doğru yanlış oranına göre de soruların zorluğu sistem tarafından otomatik olarak artırılıp azaltılıyor.
